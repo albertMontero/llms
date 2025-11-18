@@ -6,3 +6,11 @@
 - Implementing a basic chatbot without memory (console)
 - Adding memory to the chatbot (simple chat_history list)
 - Implementing a basic chatbot with memory and streamlit
+
+## Packages
+    
+    pip install -U langchain
+    pip install -U langchain-openai
+    pip install -U langchain-google-genai
+    pip install dotenv
+    pip install streamlit
