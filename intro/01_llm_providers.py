@@ -42,7 +42,7 @@ response = model.invoke(conversation)
 print(response)
 print(type(response))
 #
-#
+# minor
 
 
 
